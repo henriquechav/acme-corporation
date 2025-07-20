@@ -2,6 +2,7 @@ baseURL: https://henriquechav.github.io/
 languageCode: en-us
 title: Acme Corporation
 theme: Eclectic
+enableEmoji: true
 
 menu:
   main:
@@ -52,3 +53,10 @@ params:
     our collection of various forms with different 
     thicknesses and line styles. We shape the world. 
     You live in it.
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    lineNos: true

@@ -67,7 +67,7 @@ Horizontal Lines:
 
 ---
 
-> Block Quote
+> Na minha terra tem palmeiras onde canta o sabiá...
 
     Preformatted text
     mais um teste
@@ -106,4 +106,92 @@ Content with a -- (dash) and a --- (long dash).
 
 Sample inline code `a++` can be specified here.
 
-![Alt Text](./../static/image/logo.png "Optional Tooltip")
+![Alt Text](./../image/logo.png "Optional Tooltip")
+
+Smiley: &#x1F604;.
+
+HTML: x<sup>2</sup>
+
+## Tables, task lists and code blocks
+
+| Name  | Job              |
+| ----- | ---------------- |
+| Alex  | Web Developer    |
+| Bob   | Sys Admin        |
+| Gabby | Technical Writer |
+
+### Alternate table
+
+| Name  | Mantra                                |
+| ----- | ------------------------------------- |
+| Alex  | There must be a better way.           |
+| Bob   | Play it safe                          |
+| Gabby | Try everything, but do what you like. |
+
+### Table alignment
+
+| Index | Products | Edges |
+| ----: | :------- | :---: |
+|    1. | Circle   |   0   |
+|    2. | Line     |   1   |
+|    3. | Square   |   4   |
+
+## Acme Website task list
+
+- [x] Get the home page up
+- [x] Update Privacy Policy and Terms of Use
+- [ ] Add the About page
+- [ ] Start the blog
+- [ ] Enable Contact Us page
+
+## Code block
+
+```javascript
+var x = 10;
+x++;
+console.log(x);
+```
+
+With highlighting: :horse:
+
+```javascript {linenos=true, linenostart=199}
+while (!success) {
+  tryAgain();
+  attempt++;
+  if (Dead) {
+    break;
+  }
+}
+```
+
+## Direct Emojis
+
+Smile please :smile:
+
+I :heart: Hugo
+
+Wink :wink:
+
+A link to [Emojis](#direct-emojis)
+
+## Smart conversion
+
+This will convert to a dash --
+
+This is followed by ellipses ...
+
+## This is highlighted text {style="background: yellow"}
+
+## Definition lists
+
+Alex
+: Hippy Web Developer
+: Technophile
+
+Bob
+: Classic SysAdmin
+: Conservative
+
+Gabby
+: Cool Contend Master
+: Cautious
