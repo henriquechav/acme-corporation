@@ -1,12 +1,14 @@
-Acme Corporation TM is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
+# About Us
 
-We shape the world. You live in it.
+Acme Corporation&trade; is the world's leading manufacturer of digital shapes. From squares and circles to triangles and hexagons, we have it all. Browse through our collection of various forms with different thicknesses and line styles.
 
-We provide smiles to hundreds of happy customers.
+> We shape the world. You live in it.
 
-Manufacturing
+We provide :smile: to hundreds of happy customers.
 
-At Acme Corporation, we take pride in what we create. Our manufacturing process goes through 3 different stages of fine workmanship to give you the best possible shapes.
+## Manufacturing
+
+At Acme Corporation, we take pride in what we create. Our manufacturing process goes through **3 different** stages of fine workmanship to give you the best possible shapes.
 
 1. Drawing - Our shapes are drawn with precision to 1/100 of a millimeter.
 
@@ -21,16 +23,26 @@ At Acme Corporation, we take pride in what we create. Our manufacturing process 
 
 3. Delivery - Our output is hosted on the fastest of CDN with a 99.99% uptime and the bandwidth that can take care of all your load.
 
-Products
+## Products
 
-We make over 200 shapes. The most popular of these include:
+We make over **_200 shapes_**. The most popular of these include:
 
-Shape, Design, Description, Links Line , --, Two pointy ends and a straight stretch of ink, Line on Wikipedia - https://en.wikipedia.org/wiki/Line_(geometry) Circle, -- , A full round with no corners, Circle on Wikipedia - https://en.wikipedia.org/wiki/Circle Triangle, -- , Three lines with three corners, Triangle on Wikipedia - https://en.wikipedia.org/wiki/Triangle
+| Shape    | Design  | Description                                   | Links                                                                |
+| -------- | ------- | --------------------------------------------- | -------------------------------------------------------------------- |
+| Line     | ---     | Two pointy ends and a straight stretch of ink | [Line on Wikipedia](<https://en.wikipedia.org/wiki/Line_(geometry)>) |
+| Circle   | &#9711; | A full round with no corners                  | [Circle on Wikipedia](https://en.wikipedia.org/wiki/Circle)          |
+| Triangle | &#9651; | Three lines with three corners                | [Triangle on Wikipedia](https://en.wikipedia.org/wiki/Triangle)      |
 
-Team
+## Team
 
-Alex - Hippy Web Developer - Technophile
+Alex
+: Hippy Web Developer
+: Technophile
 
-Bob - Classic SysAdmin - Conservative
+Bob
+: Classic SysAdmin
+: Conservative
 
-Gabby - Cool Content Master - Cautious
+Gabby
+: Cool Content Master
+: Cautious
