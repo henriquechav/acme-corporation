@@ -75,3 +75,35 @@ Horizontal Lines:
 ```
 Não tem diferença.
 ```
+
+## Inline Formatting
+
+_Italics_
+
+_Italics_
+
+**Bold**
+
+**Bold**
+
+**_Bold+Italics_**
+
+this_is_not_emphasis
+
+~~strikethrough~~
+
+Content with a -- (dash) and a --- (long dash).
+
+[link](http://localhost:1313/markdown)
+
+[link](http://localhost:1313/markdown "Title on Link")
+
+[Shared links with footnotes][target 1]
+
+[second shared link][target 1]
+
+[target 1]: http://footnote.com "Test"
+
+Sample inline code `a++` can be specified here.
+
+![Alt Text](./../static/image/logo.png "Optional Tooltip")
