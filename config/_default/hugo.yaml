@@ -1,0 +1,5 @@
+baseURL: https://henriquechav.github.io/
+languageCode: en-us
+title: Acme Corporation
+theme: Eclectic
+enableEmoji: true
